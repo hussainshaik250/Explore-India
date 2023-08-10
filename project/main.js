@@ -1,4 +1,3 @@
-// JavaScript to handle the "Read More" functionality
 const readMoreButtons = document.querySelectorAll(".read-more");
 
 readMoreButtons.forEach((button) => {
